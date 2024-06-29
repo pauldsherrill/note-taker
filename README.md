@@ -16,7 +16,7 @@ After the routes were done, I just had to export my router to the server.js so t
 
 ## Usage
 
-To use the deployed website click
+To use the deployed website click https://note-taker-6sn5.onrender.com/
 
 Once you are there, you will see a button to 'Get Started' on taking notes.
 
